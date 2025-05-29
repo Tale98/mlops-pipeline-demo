@@ -99,3 +99,11 @@ Stop and remove all services
 docker compose down
 ```
 ## (Delete minio_data/ and postgres_data/ if you want to reset all persisted data.)
+# Contributors
+
+- Apisit 
+  - [GitHub](https://github.com/Tale98)
+  - [LinkedIn](https://www.linkedin.com/in/apisit-chiamkhunthod-2a11221b4/)
+  - Email: oh.oh.159852357@gmail.com
+
+Feel free to reach out if you have any questions or want to collaborate!
